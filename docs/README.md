@@ -22,3 +22,7 @@ Communication and quality practices are baked into the day-to-day cadence. OctoA
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+- [RACI Responsibility Mapping Template](./octoacme-raci-template.md)
+- [Decision Log Template & Guidance](./octoacme-decision-log.md)
+- [Dependency Handoff Checklist](./octoacme-dependency-handoff-checklist.md)
+- [Definition of Ready](./octoacme-definition-of-ready.md)

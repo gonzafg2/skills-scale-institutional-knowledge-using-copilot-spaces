@@ -18,14 +18,23 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- QA Automation Specialist: builds and maintains automated test suites integrated into CI/CD.
+- UX/UI Designer: designs user flows, interfaces, and prototypes.
+- DevOps/Infrastructure Engineer: manages CI/CD pipelines, environments, and release operations.
+- Stakeholders (Business Owner, End User, SME): provide inputs, approvals, and domain expertise.
+
+See [Roles & Personas](./octoacme-roles-and-personas.md) for full descriptions and interaction maps.
 
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
+- [Definition of Ready](./octoacme-definition-of-ready.md)
 - Risk Register
+- [Decision Log](./octoacme-decision-log.md)
+- [RACI Responsibility Matrix](./octoacme-raci-template.md)
+- [Dependency Handoff Checklist](./octoacme-dependency-handoff-checklist.md)
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
